@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsResponse xmlns="http://www.cretus.com/courses"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.cretus.com/courses ./course-details.xsd"
+    >
+    <CourseDetails>
+        <id>123</id>
+        <name>Spring in 28 minutes</name>
+        <description>Learn the basics of this course</description>
+    </CourseDetails>
+</GetCourseDetailsResponse>
